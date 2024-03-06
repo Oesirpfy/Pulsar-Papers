@@ -1,2 +1,2 @@
-# Pulsar-Papers
-Papers on neutron stars from the origin of the idea
+# \[1966] Superdense Stars
+
